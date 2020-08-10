@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm Gina"
-draft: true
+draft: false
 weight: 0
 ---
 

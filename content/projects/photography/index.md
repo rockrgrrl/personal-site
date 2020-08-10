@@ -22,5 +22,5 @@ resources:
     - src: street-traffic.jpg
       params:
           weight: 60 # Optional weighting for a specific image in this project folder
-draft: true
+draft: false
 ---
