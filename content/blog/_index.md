@@ -5,4 +5,4 @@ weight: 10
 draft: false
 ---
 
-This is some blog text.
+_Coming Soon_
