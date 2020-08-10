@@ -13,7 +13,7 @@ resources:
     - src: clock.png
       params:
           weight: 30 # Optional weighting for a specific image in this project folder
-draft: true
+draft: false
 ---
 
 [What's For Dinner?](https://yum-yum-vegan.uc.r.appspot.com/) - A recipe app  
