@@ -10,9 +10,6 @@ resources:
     - src: vegan-app-2.jpg
       params:
           weight: 20 # Optional weighting for a specific image in this project folder
-    - src: clock.png
-      params:
-          weight: 30 # Optional weighting for a specific image in this project folder
 draft: false
 ---
 
